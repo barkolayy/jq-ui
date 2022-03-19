@@ -1,0 +1,16 @@
+#best_btn {
+	background-position: 50% 50%;
+	background-size: 700px auto;
+	background-image: url('https://hotdem.ru/demotivators/2014/10/hotdem_ru_244298498300397167191.jpg');
+	width: 800px;
+	height: 600px;
+	cursor: pointer;
+}
+
+#wrapper{
+	display:  none;
+}
+
+td{
+	padding: 5px;
+}
