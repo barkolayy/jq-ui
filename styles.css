@@ -1,3 +1,9 @@
+.btn{
+	max-width: 900px;
+	height: 600px;
+	margin: 0 auto;
+	
+}
 #best_btn {
 	background-position: 50% 50%;
 	background-size: 700px auto;
@@ -8,7 +14,9 @@
 }
 
 #wrapper{
+	max-width: 800px;
 	display:  none;
+	margin:  0 auto;
 }
 
 td{

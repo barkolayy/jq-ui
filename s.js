@@ -5,6 +5,7 @@ let quantity = 1
 function best_func() {
 	$('#best_btn').css({"display": "none"})
 	$('#wrapper').css({"display": "block"})
+	$('.btn').css({"display": "none"})
 }
 
 function load_from_site(){
